@@ -6,7 +6,7 @@ Este é o repositório para o Desafio Tunts.Rocks 2024. Neste projeto, você enc
 
 Antes de começar, certifique-se de seguir os passos abaixo para configurar o projeto:
 
-## Instalação das Dependências:
+1. **Instalação das Dependências:**
    ```bash
    npm install
 
@@ -20,11 +20,11 @@ Antes de começar, certifique-se de seguir os passos abaixo para configurar o pr
   
   Renomeie o arquivo JSON para credentials.json e coloque-o no diretório do projeto.
 
-## Autorização e Autenticação
+2. **Autorização e Autenticação:**
    ```bash
    npm start
 
-## Execução da aplicaçãp
+3. **Execução da aplicação:**
    ```bash
    npm run start-app
 
