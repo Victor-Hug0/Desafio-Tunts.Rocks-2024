@@ -26,7 +26,7 @@ Antes de começar, certifique-se de seguir os passos abaixo para configurar o pr
 
 ## Execução da aplicaçãp
    ```bash
-   spm run start-app
+   npm run start-app
 
 ## Funcionalidades
 
