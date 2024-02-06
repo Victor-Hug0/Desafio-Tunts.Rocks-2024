@@ -6,11 +6,11 @@ Este é o repositório para o Desafio Tunts.Rocks 2024. Neste projeto, você enc
 
 Antes de começar, certifique-se de seguir os passos abaixo para configurar o projeto:
 
-1. **Instalação das Dependências:**
+## Instalação das Dependências:
    ```bash
    npm install
 
-2. **Configuração das Credenciais do Google Sheets API
+## Configuração das Credenciais do Google Sheets API:
 
   Crie um projeto no Google Cloud Console.
   
@@ -20,15 +20,16 @@ Antes de começar, certifique-se de seguir os passos abaixo para configurar o pr
   
   Renomeie o arquivo JSON para credentials.json e coloque-o no diretório do projeto.
 
-3. **Autorização e Autenticação**
+## Autorização e Autenticação
    ```bash
    npm start
 
-4. **Execução da aplicaçãp**
+## Execução da aplicaçãp
    ```bash
    spm run start-app
 
-5. **Funcionalidades**
+## Funcionalidades
+
   Recuperação de dados de uma planilha do Google Sheets.
 
   Cálculo da situação dos alunos com base nas notas e faltas.
